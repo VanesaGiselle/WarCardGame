@@ -1,4 +1,4 @@
-`# War Card Game
+# War Card Game
 
 ## Vista creada con:
 - Storyboard + Constraints
