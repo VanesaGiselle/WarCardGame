@@ -16,3 +16,4 @@ La app busca crear el juego de la guerra con cartas de pocker.
 - Run (Control + R).
 
 ## ScreenShots
+![ezgif-7-4ff9e5d638](https://user-images.githubusercontent.com/91626112/150182932-e60ea7d5-1afb-4385-9712-f2050816b18a.gif)
